@@ -1,1 +1,1 @@
-SOlving some problems with evolutionary algorithms in a Python Notebook
+Solving some problems with evolutionary algorithms in a Python Notebook
